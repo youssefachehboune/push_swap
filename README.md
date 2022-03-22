@@ -8,7 +8,7 @@ A School 42 project. The purpose of this project is to create sorting algorithm.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-This is my Push_swap project from the 42 cursus,
+This is my Push_swap project from the 42 cursus, 
 need help:
 yachehbo@student.1337.ma
 
